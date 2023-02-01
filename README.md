@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Header
+<img src='https://github.com/TonyCotony/TonyCotony/blob/main/assets/header.png' alt='TonyCotony' height='180'/>
 
 About me
 
