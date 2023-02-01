@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <a href="https://t.me/TonyCotony" target="_blank">
 <img src='https://github.com/TonyCotony/TonyCotony/blob/main/assets/header.png' alt='TonyCotony' height='180'/>
 </a>
