@@ -14,7 +14,7 @@ Main:
 
 With(not all):
 
-![SQLalchemy](https://img.shields.io/badge/-SQLalchemy-636363?style=for-the-badge)![Flask](https://img.shields.io/badge/-Flask-636363?style=for-the-badge&logo=Flask&logoColor=3DCCF0)![Pandas](https://img.shields.io/badge/-Pandas-636363?style=for-the-badge&logo=Pandas&logoColor=3DCCF0)![Selenium](https://img.shields.io/badge/-Selenium-636363?style=for-the-badge&logo=Selenium&logoColor=3DCCF0)![Asyncio](https://img.shields.io/badge/-Asyncio-636363?style=for-the-badge)![AsyncPG](https://img.shields.io/badge/-AsyncPG-636363?style=for-the-badge)
+![SQLalchemy](https://img.shields.io/badge/-SQLalchemy-636363?style=for-the-badge)![Flask](https://img.shields.io/badge/-Flask-636363?style=for-the-badge&logo=Flask&logoColor=3DCCF0)![Django](https://img.shields.io/badge/-Django-636363?style=for-the-badge&logo=Django&logoColor=3DCCF0)![Pandas](https://img.shields.io/badge/-Pandas-636363?style=for-the-badge&logo=Pandas&logoColor=3DCCF0)![Selenium](https://img.shields.io/badge/-Selenium-636363?style=for-the-badge&logo=Selenium&logoColor=3DCCF0)![Asyncio](https://img.shields.io/badge/-Asyncio-636363?style=for-the-badge)![AsyncPG](https://img.shields.io/badge/-AsyncPG-636363?style=for-the-badge)
 
 ### Starting Knowledge at:
 
